@@ -1,0 +1,53 @@
+---
+title: "Regime especial do IVA aplicável aos bens em segunda mão"
+identifier: "Decreto n.º 79/98"
+type: decreto
+jurisdiction: mz
+language: pt
+date: 1998-12-29
+status: unknown
+source: "http://www.portaldogoverno.gov.mz/Legisla/legisSectores/impostos/iva/regBens2Mao.pdf"
+archived_source: "https://web.archive.org/web/20120131040820/http://www.portaldogoverno.gov.mz:80/Legisla/legisSectores/impostos/iva/regBens2Mao.pdf"
+retrieved: 2026-10-13
+note: "Portal do Governo de Moçambique (legislação sectorial), cópia do Internet Archive"
+---
+
+# Regime especial do IVA aplicável aos bens em segunda mão
+
+REGIME ESPECIAL DO IVA APLICÁVEL AOS BENS EM SEGUNDA MÃO Aprovado por Decreto nº 79/98 de 29 de Dezembro
+
+## Artigo 1.º
+
+Âmbito de aplicação 1. A disciplina do presente diploma aplica-se às transmissões de bens em segunda mão efectuadas por sujeitos passivos revendedores, quando não optem pela aplicação do regime geral contido no Código IVA. 2. Para efeitos deste regime especial, são considerados bens em segunda mão os objectos de arte, de colecção e as antiguidades, tal como são definidos no artigo 3. 3. Esta disciplina é, porém, obrigatória nas transmissões dos mesmos bens, efectuadas por organizadores de vendas em leilão que actuem em nome próprio mas por conta de um comitente, no âmbito de um contrato de comissão de venda.
+
+## Artigo 2.º
+
+Definições 1. Para efeitos do presente diploma, entende-se por: a. Bens em segunda mão - os bens móveis usados, susceptíveis de reutilização no estado em que se encontram ou após reparação, mas não renovados nem transformados, e sempre com exclusão das pedras preciosas e metais preciosos, não se entendendo como tais as moedas ou artefactos daqueles materiais; b. Objectos de arte - os bens referidos no nº 15 do artigo 9 do Código IVA; c. Objectos de colecção - os selos de correio, selos fiscais, carimbos postais, envelopes de primeiro dia, blocos postais e análogos, obliterados ou não, mas que não estejam em circulação nem se destinem a ser postos em circulação, colecções e espécimes para colecções de zoologia, botânica, mineralogia ou anatonomia ou que tenham interesse histórico, arqueológico, palentológico, etnográfico ou numismático; d. Antiguidades - os bens, com exclusão dos objectos de arte e dos objectos de colecção, com mais de cem anos de idade; e. Sujeito passivo revendedor - o sujeito passivo, que no âmbito da sua actividade, compra para revenda bens em segunda mão;
+
+f.
+
+Organizador de vendas em sistema de leilão - um sujeito passivo que, no âmbito da sua actividade, proponha a venda de um bem, em seu nome, mas por conta de um comitente, nos termos de um contrato de comissão de venda, com vista à sua adjudicação em leilão; g. Comitente de um organizador de vendas em leilão - qualquer pessoa que entregue um bem a um organizador de vendas de bens em leilão, nos termos de um contrato de comissão de venda, com vista à sua adjudicação em leilão.
+
+2\. Para efeitos deste diploma consideram-se: a. Bens renovados - aqueles em que o valor dos materiais utilizados na respectiva reparação seja superior ao valor da aquisição do bem, acrescido do valor da mão de obra utilizada; b. Bens transformados - aqueles que forem objecto de uma reparação que conduza à modificação de alguma das suas características essenciais.
+
+## Artigo 3.º
+
+Regime aplicável aos revendedores de bens em segunda mão 1. As transmissões de bens em segunda mão efectuadas por um sujeito passivo revendedor são sujeitas ao regime de tributação da margem, sempre que os bens tenham sido adquiridos no território nacional, a um particular, a um outro revendedor também sujeito ao regime especial da margem, ou a um sujeito passivo que os transmitiu no âmbito nº 28 do artigo 9, ou dos regimes especiais previstos nos artigos 46 ou 53, todos do Código IVA. 2. O valor tributável das transmissões de bens referidas no número anterior é consituído pela diferença, devidamente justificada, entre o total da contraprestação devida pelo cliente, determinada nos termos do artigo 14 do Código IVA, excluído o IVA, que onera a operação, e o preço de compra dos mesmos bens. 3. A margem será determinada de forma individual para cada bem, não podendo o excesso do preço de compra sobre o preço de venda afectar o valor tributável de outras transmissões. 4. Sempre que o preço de compra não esteja devidamente justificado e/ou existam indícios fundamentados para supor que ele não traduz o valor real praticado, poderá a Administracção Fiscal proceder à respectiva determinação. 5. Haverá direito a dedução, nos termos gerais do Código IVA, apenas em relação ao imposto suportado nas reparações, manutenção ou outras prestações de serviços respeitantes aos bens sujeitos a este regime especial. 6. Para apuramento do imposto devido relativamente a cada bem vendido ao abrigo da disciplina do presente diploma, proceder-se-á do seguinte modo: a. Ao montante da contraprestação obtida ou a obter do cliente, com IVA incluído, deduz-se o montante global do preço de compra pago ou a pagar ao fornecedor; b. A diferença obtida nos termos da alínea anterior será dividida pela soma da unidade e a taxa do IVA em vigor, arredondando o resultado por defeito ou por excesso para a unidade mais próxima; c. Ao valor positivo encontrado na alínea b) aplicar-se-á a taxa do IVA em vigor; d. Ao montante do imposto obtido nos termos da alínea anterior deduzir-se-á o imposto suportado e dedutível nos termos do número 5 deste artigo.
+
+7\. As transmissões de bens em segunda mão sujeitas ao regime especial de tributação da margem são isentas de imposto quando efectuadas nos termos do artigo 12 do Código IVA. 8. O imposto liquidado pelo vendedor nas transmissões de bens sujeitos ao regime especial de tributação da margem não será discriminado na factura a emitir nos termos do nº 9, não sendo, pois dedutível pelo sujeito passivo adquirente, ainda que este destine os bens à sua actividade tributada. 9. As facturas ou documentos equivalentes, emitidos pelos revendedores relativamente às transmissões sujeitas a este regime especial da margem devem conter a menção "IVA Bens em segunda mão". 10. As transmissões sujeitas ao regime de tributação da margem devem ser escrituradas de modo a evidenciar os elementos que permitam concluir a verificação das condições previstas no nº 1 e dos elementos determinantes do valor tributável referidos no nº 2, ambos deste artigo. 11. Quando, no âmbito da sua actividade, o sujeito passivo aplique, simultaneamente, o regime geral do IVA e o regime especial de tributação da margem, deverá proceder ao registo separado das respectivas operações.
+
+## Artigo 4.º
+
+Regime aplicável aos organizadores de vendas em sistema de leilão 1. São sujeitas a Imposto sobre o Valor Acrescentado segundo o regime especial de tributação da margem previsto neste diploma, as transmissões de bens em segunda mão efectuadas por organizadores de vendas em leilão que actuem em nome próprio, nos termos de um contrato de comissão de venda, e os bens tenham sido adquiridos no território nacional, a um comitente que seja um particular, a um outro revendedor também sujeito ao regime especial da margem ou um sujeito passivo que os transmita no âmbito do nº 28 do artigo 9, ou dos regimes especiais previstos nos artigos 46 ou 53, todos do Código IVA. 2. O valor das transmissões de bens efectuadas por organizadores de vendas em leilão, de acordo com o disposto no nº 1, é constituído pelo montante facturado ao comprador, nos termos do nº 4, depois de deduzidos: a. O montante líquido pago ou a pagar pelo organizador de vendas em leilão ao seu comitente, determinado nos termos do nº 3 deste artigo; b. O montante do imposto devido pelo organizador de vendas em leilão, relativo à transmissão de bens.
+
+3\. O montante líquido pago ou a pagar pelo organizador da venda em leilão ao seu comitente é igual à diferença entre o preço de adjudicação do bem em leilão e o montante da comissão obtida ou a obter, pelo organizador da venda em leilão, do respectivo comitente, de acordo com o estabelecido no contrato de comissão de venda. 4. O organizador de vendas em leilão deve fornecer ao comprador uma factura ou documento equivalente, com indicação do montante total da transmissão dos bens e em que se especifique, nomeadamente.
+
+a. O preço de adjudicação do bem; b. Os impostos, direitos, contribuições e taxas, com exclusão do próprio imposto sobre o valor acrescentado; c. As despesas acessórias, tais como despesas de comissão, embalagem, transporte e seguro, cobradas pelo organizador ao comprador do bem.
+
+5\. As facturas ou documentos equivalentes emitidos pelos sujeitos passivos organizadores de vendas em leilão, devem conter a menção "IVA - Regime especial de vendas em leilão", sem discriminar o imposto sobre o valor acrescentado, o qual não é, pois, passível de dedução pelo adquirente. 6. O organizador de vendas em leilão a quem for transmitido o bem nos termos de um contrato de comissão de venda em leilão deve apresentar, no prazo de cinco dias úteis contados a partir da data de realização da venda em leilão, um relatório ao seu comitente, no qual deve identificar os intervenientes no contrato e indicar, nomeadamente, o preço de adjudicação do bem, deduzido o montante da comissão obtida ou a obter do comitente. 7. O relatório referido no número anterior substituirá a factura que o comitente, no caso de ser sujeito passivo, deveria entregar ao organizador da venda em leilão. 8. Os organizadores de vendas em leilão que efectuem transmissões de bens nas condições do nº 1 são obrigados a registar, em contas de terceiros e devidamente justificados: a. Os montantes obtidos ou a obter do comprador do bem; b. Os montantes reembolsados ou a reembolsar ao comitente.
+
+## Artigo 5.º
+
+Disposições finais 1. O regime especial de tributação simplificada não será aplicável aos sujeitos passivos que efectuem transmissões de bens em segunda mão, nos termos deste regime especial. 2. O Ministro do Plano e Finanças pode, por despacho, criar ou alterar os modelos de livros e impressos necessários à execução das obrigações do presente diploma. a. As prestações de serviços gratuitas efectuadas pela própria empresa com vista às necessidades particulares do seu titular, do pessoal ou, em geral a fins alheios à mesma; b. A utilização de bens da empresa para uso próprio do seu titular, do pessoal, ou em geral para fins alheios à mesma e ainda em sectores de actividade isentos quando, relativamente a esses bens ou aos elementos que os constituem tenha havido dedução total ou parcial do imposto.
+
+3\. A disciplina do Código IVA será aplicável em tudo o que não se revelar contrário ao disposto no presente regime especial.
